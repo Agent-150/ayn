@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Alinshan/PROFESSOR-BOT",
-    "repository": "https://github.com/Alinshan/PROFESSOR-BOT",
+    "website": "https://github.com/Agent-150/ayn",
+    "repository": "https://github.com/Agent-150/ayn",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
